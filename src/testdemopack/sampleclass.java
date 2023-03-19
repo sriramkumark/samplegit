@@ -11,6 +11,9 @@ public class sampleclass {
      System.out.println("commit4");
      System.out.println("branch create with develop");
      System.out.println("project under Gitproject");
+     
+     System.out.println("From samplegit brach develop");
+     System.out.println("on samplegit develop");
 	}
 
 }
